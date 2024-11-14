@@ -106,6 +106,9 @@ build:
     - ../../DisplayWaveshare/Inc
     - ../../ITS_BRD_LIB/Inc
     - ../../ITS_BRD_LIB/Utilities/AddFonts
+    - ../../lwip
+    - ../../lwip/src/include
+    - ../../lwip/src/include/lwip
     - RTE/_Debug_ITSboard
     - ${CMSIS_PACK_ROOT}/ARM/CMSIS/6.1.0/CMSIS/Core/Include
     - ${CMSIS_PACK_ROOT}/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include
@@ -289,11 +292,73 @@ build:
       files:
         - file: ../../ITS_BRD_LIB/Inc/lcd.h
           category: header
+    - group: lwIP/Source
+      files:
+        - file: ../../lwip/src/netif/ethernet.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/ip4.c
+          category: sourceC
+        - file: ../../lwip/src/core/ip.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/ip4_addr.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/ip4_frag.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/acd.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/dhcp.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/etharp.c
+          category: sourceC
+        - file: ../../lwip/src/core/ipv4/icmp.c
+          category: sourceC
+        - file: ../../lwip/src/core/def.c
+          category: sourceC
+        - file: ../../lwip/src/core/mem.c
+          category: sourceC
+        - file: ../../lwip/src/core/memp.c
+          category: sourceC
+        - file: ../../lwip/src/core/netif.c
+          category: sourceC
+        - file: ../../lwip/src/core/pbuf.c
+          category: sourceC
+        - file: ../../lwip/src/core/tcp.c
+          category: sourceC
+        - file: ../../lwip/src/core/tcp_in.c
+          category: sourceC
+        - file: ../../lwip/src/core/tcp_out.c
+          category: sourceC
+        - file: ../../lwip/src/core/timeouts.c
+          category: sourceC
+        - file: ../../lwip/src/core/udp.c
+          category: sourceC
+        - file: ../../lwip/src/core/inet_chksum.c
+          category: sourceC
+        - file: ../../lwip/src/core/init.c
+          category: sourceC
+        - file: ../../lwip/src/core/stats.c
+          category: sourceC
+        - file: ../../lwip/src/core/dns.c
+          category: sourceC
+    - group: Program/Arch/Inc
+      files:
+        - file: Inc/arch/cc.h
+          category: header
+        - file: Inc/arch/sys_arch.h
+          category: header
     - group: Program/User/Src
       files:
         - file: Src/main.c
           category: sourceC
         - file: Src/led.c
+          category: sourceC
+        - file: Src/lwip_interface.c
+          category: sourceC
+        - file: Src/arch/sys_arch.c
+          category: sourceC
+    - group: Program/Net/Src
+      files:
+        - file: Src/net/ethernetif.c
           category: sourceC
   constructed-files:
     - file: RTE/_Debug_ITSboard/RTE_Components.h

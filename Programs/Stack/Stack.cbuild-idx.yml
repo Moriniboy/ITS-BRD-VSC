@@ -10,13 +10,31 @@ build-idx:
       project: Stack
       configuration: .Debug+ITSboard
       messages:
+        errors:
+          - Stack.cproject.yml:190:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/def.c' was not found
+          - Stack.cproject.yml:203:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/dns.c' was not found
+          - Stack.cproject.yml:200:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/inet_chksum.c' was not found
+          - Stack.cproject.yml:201:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/init.c' was not found
+          - Stack.cproject.yml:183:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ip.c' was not found
+          - Stack.cproject.yml:186:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/acd.c' was not found
+          - Stack.cproject.yml:187:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/dhcp.c' was not found
+          - Stack.cproject.yml:188:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/etharp.c' was not found
+          - Stack.cproject.yml:189:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/icmp.c' was not found
+          - Stack.cproject.yml:182:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/ip4.c' was not found
+          - Stack.cproject.yml:184:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/ip4_addr.c' was not found
+          - Stack.cproject.yml:185:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/ipv4/ip4_frag.c' was not found
+          - Stack.cproject.yml:191:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/mem.c' was not found
+          - Stack.cproject.yml:192:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/memp.c' was not found
+          - Stack.cproject.yml:193:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/netif.c' was not found
+          - Stack.cproject.yml:194:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/pbuf.c' was not found
+          - Stack.cproject.yml:202:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/stats.c' was not found
+          - Stack.cproject.yml:195:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/tcp.c' was not found
+          - Stack.cproject.yml:196:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/tcp_in.c' was not found
+          - Stack.cproject.yml:197:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/tcp_out.c' was not found
+          - Stack.cproject.yml:198:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/timeouts.c' was not found
+          - Stack.cproject.yml:199:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/core/udp.c' was not found
+          - Stack.cproject.yml:181:11 - file 'C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/lwip/src/netif/ethernet.c' was not found
         info:
+          - Stack.cbuild-set.yml - file is already up-to-date
           - Stack.cbuild-pack.yml - file is already up-to-date
           - Stack.Debug+ITSboard.cbuild.yml - file is already up-to-date
-    - cbuild: Stack.Release+ITSboard.cbuild.yml
-      project: Stack
-      configuration: .Release+ITSboard
-      messages:
-        info:
-          - Stack.cbuild-pack.yml - file is already up-to-date
-          - Stack.Release+ITSboard.cbuild.yml - file is already up-to-date
