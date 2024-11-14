@@ -20,6 +20,7 @@
 #include "fontsFLASH.h"
 #include "additionalFonts.h"
 #include "error.h"
+#include <stdbool.h>
 
 #include "led.h"
 

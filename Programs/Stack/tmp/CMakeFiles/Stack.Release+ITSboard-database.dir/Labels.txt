@@ -1,0 +1,11 @@
+# Target labels
+ Stack.Release+ITSboard
+# Source files and their labels
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-database
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-database.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-database.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-configure.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-patch.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-update.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-download.rule
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-mkdir.rule

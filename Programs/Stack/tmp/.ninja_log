@@ -1,0 +1,43 @@
+# ninja log v6
+23	114	7526796460166662	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-mkdir	29539ca7bb4ff446
+115	190	7526796460916522	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-download	e9e0b4e70793d02c
+10902	10966	7526796568709250	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-test	f9d55102998c90db
+23	114	7526796460166662	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-mkdir	29539ca7bb4ff446
+10966	11052	7526796569541091	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-done	b9d9e3ace3e8dd6a
+198	276	7526796461772091	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-update	16a067b359b19802
+115	190	7526796460916522	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-download	e9e0b4e70793d02c
+198	276	7526796461772091	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-update	16a067b359b19802
+277	351	7526796462545677	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-patch	3bd24093b895209a
+277	351	7526796462545677	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-patch	3bd24093b895209a
+352	7648	7526796535515824	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-configure	49ea3ba1359c2782
+352	7648	7526796535515824	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-configure	49ea3ba1359c2782
+7649	10861	7526796535587950	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-build	3d499258f254db6c
+7649	10861	7526796535587950	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/out/Stack/ITSboard/Debug/Stack.axf	3d499258f254db6c
+10861	10902	7526796567712865	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-install	ba094f020b265562
+7649	10861	7526796535587950	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-build	3d499258f254db6c
+10861	10902	7526796567712865	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-install	ba094f020b265562
+10902	10966	7526796568709250	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-test	f9d55102998c90db
+10966	11052	7526796569541091	CMakeFiles/Stack.Debug+ITSboard-complete	b9d9e3ace3e8dd6a
+10966	11052	7526796569541091	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard-complete	b9d9e3ace3e8dd6a
+10966	11052	7526796569541091	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-done	b9d9e3ace3e8dd6a
+24	82	7526796574284583	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-mkdir	8634c4fe87b6b6c5
+24	82	7526796574284583	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-mkdir	8634c4fe87b6b6c5
+82	135	7526796574804901	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-download	8e176157a14bd3fa
+82	135	7526796574804901	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-download	8e176157a14bd3fa
+135	190	7526796575318085	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-update	6196f9897be7c12c
+135	190	7526796575318085	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-update	6196f9897be7c12c
+190	243	7526796575788772	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-patch	cdfdf6dd26a5d21f
+190	243	7526796575788772	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-patch	cdfdf6dd26a5d21f
+243	2814	7526796601620129	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-configure	891c697eb92041e6
+243	2814	7526796601620129	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-configure	891c697eb92041e6
+2815	4775	7526796601651128	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-build	84d1ee281197a193
+2815	4775	7526796601651128	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/out/Stack/ITSboard/Release/Stack.axf	84d1ee281197a193
+2815	4775	7526796601651128	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-build	84d1ee281197a193
+4776	4808	7526796621276129	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-install	684ccbd3bf262dde
+4776	4808	7526796621276129	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-install	684ccbd3bf262dde
+4808	4859	7526796622046393	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-test	54794e5982d42235
+4808	4859	7526796622046393	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-test	54794e5982d42235
+4859	4928	7526796622734751	CMakeFiles/Stack.Release+ITSboard-complete	a0c172b28bf03315
+4859	4928	7526796622734751	Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-done	a0c172b28bf03315
+4859	4928	7526796622734751	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-complete	a0c172b28bf03315
+4859	4928	7526796622734751	C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Release+ITSboard/src/Stack.Release+ITSboard-stamp/Stack.Release+ITSboard-done	a0c172b28bf03315

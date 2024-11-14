@@ -1,0 +1,10 @@
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard-build.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard-configure.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard-database.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-build.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-configure.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Release+ITSboard-database.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/edit_cache.dir
+C:/Users/ftnk1/wise24 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/rebuild_cache.dir
