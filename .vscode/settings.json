@@ -117,8 +117,9 @@
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-
-    "--compile-commands-dir=/Users/martin/Documents/git/ITS-BRD-VSC/Programs/Stack/out/Stack/ITSboard/Debug"
-
+    "--compile-commands-dir=c:\\Users\\ftnk1\\sose25 git\\ITS-BRD-VSC\\Programs\\Stack\\out\\Stack\\ITSboard\\Debug"
+  ],
+  "python.analysis.extraPaths": [
+    "c:\\Users\\ftnk1\\.vcpkg\\artifacts\\2139c4c6\\debuggers.arm.armdbg\\6.2.1\\sw\\ide\\plugins\\com.arm.debug.interpreter.jython.api_6.2.1.20240720_113122"
   ]
 }
