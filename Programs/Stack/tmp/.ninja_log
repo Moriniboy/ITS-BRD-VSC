@@ -1,0 +1,13 @@
+# ninja log v6
+15	70	7671178997142767	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-mkdir	976cc7abf6a2778b
+15	70	7671178997142767	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-mkdir	976cc7abf6a2778b
+71	124	7671178997746362	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-download	16c3443297571250
+71	124	7671178997746362	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-download	16c3443297571250
+124	178	7671178998272020	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-update	96057adcbaddf655
+124	178	7671178998272020	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-update	96057adcbaddf655
+179	230	7671178998708467	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-patch	69ee525a6af862c6
+179	230	7671178998708467	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-patch	69ee525a6af862c6
+230	4413	7671179040554601	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-configure	6313c92bd572cdc8
+230	4413	7671179040554601	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-configure	6313c92bd572cdc8
+4413	4530	7671179040660444	Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-database	7317087ed8fecb68
+4413	4530	7671179040660444	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-database	7317087ed8fecb68

@@ -1,0 +1,14 @@
+# Target labels
+ Stack.Debug+ITSboard
+# Source files and their labels
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/CMakeFiles/Stack.Debug+ITSboard-complete.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-build.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-configure.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-download.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-install.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-mkdir.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-patch.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-test.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/Stack/tmp/Stack.Debug+ITSboard/src/Stack.Debug+ITSboard-stamp/Stack.Debug+ITSboard-update.rule
