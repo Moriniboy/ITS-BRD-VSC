@@ -1,0 +1,26 @@
+# ninja log v6
+19	115	7671201197540670	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-mkdir	59063fa95070ebc2
+19	115	7671201197540670	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-mkdir	59063fa95070ebc2
+116	195	7671201198334720	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-download	f96ce14421670e87
+2588	2660	7671201275989206	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-test	f3cd0800f2faffd3
+116	195	7671201198334720	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-download	f96ce14421670e87
+196	276	7671201199095206	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-update	c1ba6f6d9cb0190f
+196	276	7671201199095206	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-update	c1ba6f6d9cb0190f
+277	357	7671201199914517	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-patch	7ce846cfedcd58ca
+277	357	7671201199914517	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-patch	7ce846cfedcd58ca
+357	4405	7671201240405630	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-configure	7f126b8e5416239c
+357	4405	7671201240405630	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-configure	7f126b8e5416239c
+4405	4553	7671201240504934	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-database	597eca3e840e8d15
+4405	4553	7671201240504934	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-database	597eca3e840e8d15
+25	2541	7671201249650526	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-build	f0191bb341e489b9
+25	2541	7671201249650526	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/out/TestNewFont/ITSboard/Release/TestNewFont.axf	f0191bb341e489b9
+25	2541	7671201249650526	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-build	f0191bb341e489b9
+2588	2660	7671201275989206	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-test	f3cd0800f2faffd3
+2542	2588	7671201274860697	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-install	3ead3ec91857e2b8
+2542	2588	7671201274860697	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-install	3ead3ec91857e2b8
+2660	2758	7671201276957317	CMakeFiles/TestNewFont.Release+ITSboard-complete	d035e12854426739
+2660	2758	7671201276957317	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-done	d035e12854426739
+2660	2758	7671201276957317	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Release+ITSboard-complete	d035e12854426739
+2660	2758	7671201276957317	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-done	d035e12854426739
+35	3284	7671954823510951	TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-database	597eca3e840e8d15
+35	3284	7671954823510951	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-database	597eca3e840e8d15

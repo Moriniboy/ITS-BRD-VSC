@@ -1,0 +1,11 @@
+# Target labels
+ TestNewFont.Release+ITSboard
+# Source files and their labels
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Release+ITSboard-database
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/CMakeFiles/TestNewFont.Release+ITSboard-database.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-database.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-configure.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-patch.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-update.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-download.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFont/tmp/TestNewFont.Release+ITSboard/src/TestNewFont.Release+ITSboard-stamp/TestNewFont.Release+ITSboard-mkdir.rule

@@ -1,0 +1,6 @@
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly.dir
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-build.dir
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-configure.dir
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-database.dir
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/edit_cache.dir
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/rebuild_cache.dir

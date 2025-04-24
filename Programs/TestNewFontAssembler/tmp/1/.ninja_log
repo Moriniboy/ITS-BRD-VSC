@@ -1,0 +1,70 @@
+# ninja log v6
+5	91	7671195339839683	CMakeFiles/database	bb7c90a8fd72ed5c
+5	91	7671195339839683	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/database	bb7c90a8fd72ed5c
+28	371	7671195350083875	CMakeFiles/Group_Drivers_Board.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/startup_stm32f429xx.o	7a734b0c2c316946
+39	429	7671195350161245	CMakeFiles/Group_Drivers_Board.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/stm32f4xx_it.o	af0f7632008746a9
+33	457	7671195350117454	CMakeFiles/Group_Drivers_Board.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/startup/system_stm32f4xx.o	ab37960349e7ad72
+78	500	7671195350543885	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o	15a63df686807d5a
+21	552	7671195349971332	CMakeFiles/Group_Drivers_BSP_STM32F4xx_Nucleo_144.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/BSP/STM32F4xx_Nucleo_144/stm32f4xx_nucleo_144.o	fd9af5be701a03dd
+62	671	7671195350387616	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o	4e5d71dad5f5ac2a
+47	681	7671195350231308	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o	168e3346c62aa343
+53	691	7671195350231308	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.o	cbe107d1510f462b
+125	701	7671195351016565	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.o	2b5b59ab66eaa26
+431	711	7671195354125481	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font8.o	e9c78a4264200455
+69	741	7671195350387616	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o	79181e40f8197c06
+89	751	7671195350700149	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o	3610b2a90b69a8b
+500	760	7671195354712196	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font16.o	4d1419acba335a51
+457	769	7671195354394130	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font12.o	4e9a92e8739a96a8
+552	782	7671195355295465	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font20.o	7f4ca3b145b5d635
+132	858	7671195351016565	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.o	97b73c745cf5b639
+671	944	7671195356522224	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Utilities/Fonts/font24.o	cfb0e55b47ae8f4
+682	1025	7671195356627563	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas40.o	dec08821e8f47c17
+741	1034	7671195357232994	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold40.o	90c7f42d469aa217
+691	1048	7671195356678697	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas60.o	c12f1a8606571ef1
+372	1073	7671195353528571	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.o	be01ee116af89a49
+751	1082	7671195357314287	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold60.o	be2de3ebf0e68b3
+701	1139	7671195356795218	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas80.o	f96f19c371171e2c
+782	1150	7671195357635318	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNew48.o	3f1bfc931889ddcc
+859	1199	7671195358465317	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold40.o	fe6c45a65edc0466
+761	1208	7671195357421113	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold80.o	9f52d5c6a9e54844
+114	1217	7671195350856402	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.o	d5bd913091e9ab55
+712	1237	7671195356941122	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/Consolas90.o	75e811e10e01e478
+769	1348	7671195357496295	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/ConsolasBold90.o	4f98ab173a208e4
+1025	1357	7671195359973427	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono40.o	e4fb46e8c4cd6187
+1082	1366	7671195360606274	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium40.o	667a65d7ec95814e
+944	1383	7671195359235047	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/CourierNewBold60.o	56a03e302a5aaade
+1035	1400	7671195360078484	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono60.o	f4e12bbca1288b33
+1208	1486	7671195361872561	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/fontsFLASH.o	d19757b64eacf572
+101	1508	7671195350700149	CMakeFiles/Group_Drivers_STM32F4xx_HAL_Driver.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/stm32cubef4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.o	652777407a1aa2a8
+1139	1526	7671195361107652	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium60.o	498f94c7ba2f595e
+1048	1568	7671195360234815	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono80.o	d82316e561094e3e
+1073	1678	7671195360548043	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMono90.o	20e3ba6baf12d189
+1199	1698	7671195361787377	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium90.o	48c4ae7eff396b5e
+1237	1707	7671195362189069	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_GUI.o	fba3ab6d9c979cf6
+1508	1748	7671195364872829	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Debug.o	f5f9fa8a22770cef
+1150	1794	7671195361242833	CMakeFiles/Group_Utils.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Utilities/AddFonts/FiraMonoMedium80.o	f6fa5406dbbcebb9
+1217	1817	7671195361974610	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Driver.o	49ff818048c18ac8
+1384	1827	7671195363643199	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_TIM.o	350241d938fcf463
+1366	1837	7671195363458642	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_GPIO.o	e0788aca165a76c2
+1357	1851	7671195363382440	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_SPI.o	2a3d3b206326fac7
+1527	1860	7671195365086446	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Demos.o	1569a40235230c15
+1400	1929	7671195363797593	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Tools.o	afacab0885c853a3
+1679	1952	7671195366546728	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/lcd.o	dc0102b5b769f283
+1487	1983	7671195364559454	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/testsoftware.o	e06e0a856f774513
+1708	1984	7671195366859240	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/terminal.o	2641517aa88dd7f9
+1851	2003	7671195368332789	CMakeFiles/Group_Program_User_Src.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/Programs/TestNewFontAssembler/Src/main.o	12c702d512b0a408
+1568	2014	7671195365490131	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/error.o	a5ad5abfef3926ab
+1348	2024	7671195363226178	CMakeFiles/Group_LCD.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/DisplayWaveshare/Src/LCD_Touch.o	e318d028c1c98d9a
+1837	2036	7671195368139441	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/stdinout_USART.o	fe4a2179357a9425
+1698	2067	7671195366702981	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/init.o	2efc18f0810a2687
+1795	2099	7671195367753215	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/delay.o	edda68890dc98e3f
+1817	2130	7671195367976825	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/timer.o	9e5cc300af29ea2b
+1748	2153	7671195367273281	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/keypad.o	e32416eddd66e199
+1828	2328	7671195368096580	CMakeFiles/Group_ITS_BRD_LIB.dir/C_/Users/ftnk1/sose25_git/ITS-BRD-VSC/ITS_BRD_LIB/Src/USART_STM32F4xx.o	fbe9116a45a5efcc
+2329	2833	7671195373106742	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/out/TestNewFontAssembler/ITSboard_Assembly/Release/TestNewFontAssembler.axf	a2ffffea28d5fb0f
+34	136	7671199644066397	CMakeFiles/database	bb7c90a8fd72ed5c
+34	136	7671199644066397	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/database	bb7c90a8fd72ed5c
+23	106	7671199965510761	CMakeFiles/database	bb7c90a8fd72ed5c
+23	106	7671199965510761	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/database	bb7c90a8fd72ed5c
+25	109	7671200147513774	CMakeFiles/database	bb7c90a8fd72ed5c
+25	109	7671200147513774	C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/1/CMakeFiles/database	bb7c90a8fd72ed5c

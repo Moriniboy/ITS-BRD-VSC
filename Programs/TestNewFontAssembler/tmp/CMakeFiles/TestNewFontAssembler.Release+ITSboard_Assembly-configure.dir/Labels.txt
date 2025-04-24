@@ -1,0 +1,10 @@
+# Target labels
+ TestNewFontAssembler.Release+ITSboard_Assembly
+# Source files and their labels
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-configure
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-configure.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-configure.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-patch.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-update.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-download.rule
+C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-mkdir.rule

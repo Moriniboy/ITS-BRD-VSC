@@ -20,7 +20,15 @@
       "target": "ITSboard",
       "config": {
         "run": "arm-debugger.flash: Flash Device"
-      }
+      },
+      "projects": [
+        {
+          "path": "Programs/TestNewFont/TestNewFont.cproject.yml",
+          "config": {
+            "run": "arm-debugger.flash: Flash Device"
+          }
+        }
+      ]
     },
     {
       "path": "Programs/GTPLauflichtKRFASM/GTPLauflichtKRFASM.csolution.yml",
@@ -112,14 +120,29 @@
       "config": {
         "run": "arm-debugger.flash: Flash Device"
       }
+    },
+    {
+      "path": "Programs/TestNewFontAssembler/TestNewFontAssembler.csolution.yml",
+      "target": "ITSboard_Assembly",
+      "config": {
+        "run": "arm-debugger.flash: Flash Device"
+      },
+      "projects": [
+        {
+          "path": "Programs/TestNewFontAssembler/TestNewFontAssembler.cproject.yml",
+          "config": {
+            "run": "arm-debugger.flash: Flash Device"
+          }
+        }
+      ]
     }
   ],
   "cmake.ignoreCMakeListsMissing": true,
   "C_Cpp_Runner.msvcBatchPath": "",
   "clangd.arguments": [
-    "--compile-commands-dir=c:\\Users\\ftnk1\\sose25 git\\ITS-BRD-VSC\\Programs\\Stack\\out\\Stack\\ITSboard\\Debug"
+    "--compile-commands-dir=c:\\Users\\ftnk1\\sose25 git\\ITS-BRD-VSC\\Programs\\TestNewFont\\out\\TestNewFont\\ITSboard\\Release"
   ],
   "python.analysis.extraPaths": [
-    "c:\\Users\\ftnk1\\.vcpkg\\artifacts\\2139c4c6\\debuggers.arm.armdbg\\6.2.1\\sw\\ide\\plugins\\com.arm.debug.interpreter.jython.api_6.2.1.20240720_113122"
+    "c:\\Users\\ftnk1\\.vcpkg\\artifacts\\2139c4c6\\debuggers.arm.armdbg\\6.3.0\\sw\\osgi\\plugins\\com.arm.debug.interpreter.jython.api_0.0.0.202410301516"
   ]
 }

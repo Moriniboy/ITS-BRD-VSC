@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-configure"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/CMakeFiles/TestNewFontAssembler.Release+ITSboard_Assembly-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-update.rule"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-download.rule"
+		},
+		{
+			"file" : "C:/Users/ftnk1/sose25 git/ITS-BRD-VSC/Programs/TestNewFontAssembler/tmp/TestNewFontAssembler.Release+ITSboard_Assembly/src/TestNewFontAssembler.Release+ITSboard_Assembly-stamp/TestNewFontAssembler.Release+ITSboard_Assembly-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TestNewFontAssembler.Release+ITSboard_Assembly"
+		],
+		"name" : "TestNewFontAssembler.Release+ITSboard_Assembly-configure"
+	}
+}

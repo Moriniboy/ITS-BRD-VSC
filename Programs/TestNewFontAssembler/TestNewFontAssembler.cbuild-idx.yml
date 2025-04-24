@@ -1,0 +1,16 @@
+build-idx:
+  generated-by: csolution version 2.6.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: TestNewFontAssembler.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: TestNewFontAssembler.cproject.yml
+  cbuilds:
+    - cbuild: TestNewFontAssembler.Release+ITSboard_Assembly.cbuild.yml
+      project: TestNewFontAssembler
+      configuration: .Release+ITSboard_Assembly
+      messages:
+        info:
+          - TestNewFontAssembler.cbuild-set.yml - file is already up-to-date
+          - TestNewFontAssembler.cbuild-pack.yml - file is already up-to-date
+          - TestNewFontAssembler.Release+ITSboard_Assembly.cbuild.yml - file is already up-to-date
